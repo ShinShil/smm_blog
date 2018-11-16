@@ -1,0 +1,57 @@
+<link href="stylesheets/author.css" rel="stylesheet">
+<div class="author-content container">
+  <div class="right">
+    <div class="right-header">
+      <div class="big">
+        POLINA DUBOVIK
+      </div>
+      <div class="small">
+        SMM & photostudio
+      </div>
+    </div>
+    <div class="items">
+      <div class="item">
+        <div class="item-header">
+          About
+        </div>
+        <div class="item-content">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem esse exercitationem fuga officia porro? Ab accusamus amet
+          at, culpa cupiditate dicta, enim fugit ipsa iste maxime, minima optio perferendis perspiciatis placeat quasi quidem
+          ratione reiciendis repudiandae sequi sint unde velit!
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="item-header">
+          Work experience
+        </div>
+        <div class="item-content">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem esse exercitationem fuga officia porro? Ab accusamus amet
+          at, culpa cupiditate dicta, enim fugit ipsa iste maxime, minima optio perferendis perspiciatis placeat quasi quidem
+          ratione reiciendis repudiandae sequi sint unde velit!
+        </div>
+      </div>
+      <div class="item">
+        <div class="item-header">
+          Education
+        </div>
+        <div class="item-content">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem esse exercitationem fuga officia porro? Ab accusamus amet
+          at, culpa cupiditate dicta, enim fugit ipsa iste maxime, minima optio perferendis perspiciatis placeat quasi quidem
+          ratione reiciendis repudiandae sequi sint unde velit!
+        </div>
+      </div>
+      <div class="item">
+        <div class="item-header">
+          Awards
+        </div>
+        <div class="item-content">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem esse exercitationem fuga officia porro? Ab accusamus amet
+          at, culpa cupiditate dicta, enim fugit ipsa iste maxime, minima optio perferendis perspiciatis placeat quasi quidem
+          ratione reiciendis repudiandae sequi sint unde velit!
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>

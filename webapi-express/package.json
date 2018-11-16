@@ -1,0 +1,28 @@
+{
+  "name": "webapi-express",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "devstart": "nodemon ./bin/www",
+    "start-debug": "SET DEBUG=webapi-expess:* & npm start",
+    "devstart-debug": "SET DEBUG=webapi-expess:* & npm run devstart",
+    "build-sass": "node-sass scss -o  public/stylesheets",
+    "watch-sass": "node-sass -w scss -o  public/stylesheets"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "express-handlebars": "^3.0.0",
+    "fontawesome": "^4.7.2",
+    "http-errors": "~1.6.2",
+    "jquery": "^3.3.1",
+    "morgan": "~1.9.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.10.0",
+    "nodemon": "^1.18.6"
+  }
+}

@@ -1,0 +1,75 @@
+<link href="stylesheets/bootstrap.css"
+    rel="stylesheet">
+<link href="stylesheets/style.css"
+    rel="stylesheet">
+<link href="stylesheets/layout.css"
+    rel="stylesheet">
+<nav class="navbar navbar-expand-lg navbar-light fixed-top"
+    id="mainNav">
+    <div class="container">
+        <a class="navbar-brand"
+            href="index.html">SMM</a>
+        <button class="navbar-toggler navbar-toggler-right"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarResponsive"
+            aria-controls="navbarResponsive"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
+            Menu
+            <i class="fas fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse"
+            id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link"
+                        href="home">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link"
+                        href="posts">Blog</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link"
+                        href="author">Author</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="body-wrapper">
+    {{{body}}}
+</div>
+
+<div class="footer">
+    <div class="top">
+        <div class="col hrefs">
+            <a>Author</a>
+            <a>Blog</a>
+            <a>Account</a>
+        </div>
+        <div class="col contacts">
+            <div class="address">
+                address: molodachno wwww, 25 x
+            </div>
+            <div class="phone">
+                +375-xx-xxx-xx-xx +375-xx-xxx-xx-xx +375-xx-xxx-xx-xx
+            </div>
+            <div class="mail">
+                xxxx@xxx.com
+            </div>
+        </div>
+    </div>
+    <div class="bottom">
+        <div>
+            Индивидуальный предприниматель Дубовик Полина Анатольевна
+        </div>
+        <div>
+            УНП: 692021545
+        </div>
+    </div>
+</div>
+<script src="javascripts/jquery.min.js"></script>
+<script src="javascripts/layout.js"></script>
