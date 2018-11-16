@@ -10,7 +10,7 @@ router.get('/author', function (req, res, next) {
   res.render('author');
 })
 
-router.get('/home', function(req, res, next) {
+router.get('/home', function (req, res, next) {
   res.render('home');
 })
 
@@ -27,6 +27,10 @@ router.get('/posts', function (req, res, next) {
       }
     ]
   });
+});
+
+router.get('/posts/:id', function (req, res, next) {
+  res.render('post', { post: '' });
 });
 
 module.exports = router;

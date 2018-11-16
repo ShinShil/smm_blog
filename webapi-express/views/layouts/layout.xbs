@@ -1,14 +1,14 @@
-<link href="stylesheets/bootstrap.css"
+<link href="/stylesheets/bootstrap.css"
     rel="stylesheet">
-<link href="stylesheets/style.css"
+<link href="/stylesheets/style.css"
     rel="stylesheet">
-<link href="stylesheets/layout.css"
+<link href="/stylesheets/layout.css"
     rel="stylesheet">
 <nav class="navbar navbar-expand-lg navbar-light fixed-top"
     id="mainNav">
     <div class="container">
         <a class="navbar-brand"
-            href="index.html">SMM</a>
+            href="/home">SMM</a>
         <button class="navbar-toggler navbar-toggler-right"
             type="button"
             data-toggle="collapse"
@@ -24,15 +24,15 @@
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
                     <a class="nav-link"
-                        href="home">Home</a>
+                        href="/home">Home</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link"
-                        href="posts">Blog</a>
+                        href="/posts">Blog</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link"
-                        href="author">Author</a>
+                        href="/author">Author</a>
                 </li>
             </ul>
         </div>
@@ -71,5 +71,5 @@
         </div>
     </div>
 </div>
-<script src="javascripts/jquery.min.js"></script>
-<script src="javascripts/layout.js"></script>
+<script src="/javascripts/jquery.min.js"></script>
+<script src="/javascripts/layout.js"></script>

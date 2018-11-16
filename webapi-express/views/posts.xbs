@@ -7,7 +7,7 @@
       <div class="row">
         <div class="col-lg-8 col-md-8 mx-auto">
           <div class="post-preview">
-            <a href="post.html">
+            <a href="/posts/1">
               <h2 class="post-title">
                 Man must explore, and this is exploration at its greatest
               </h2>
@@ -16,23 +16,23 @@
               </h3>
             </a>
             <p class="post-meta">Posted by
-              <a href="#">Start Bootstrap</a>
+              <a href="#">Polina Dubovik</a>
               on September 24, 2018</p>
           </div>
           <hr>
           <div class="post-preview">
-            <a href="post.html">
+            <a href="/posts/1">
               <h2 class="post-title">
                 I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.
               </h2>
             </a>
             <p class="post-meta">Posted by
-              <a href="#">Start Bootstrap</a>
+              <a href="#">Polina Dubovik</a>
               on September 18, 2018</p>
           </div>
           <hr>
           <div class="post-preview">
-            <a href="post.html">
+            <a href="/posts/1">
               <h2 class="post-title">
                 Science has not yet mastered prophecy
               </h2>
@@ -41,12 +41,12 @@
               </h3>
             </a>
             <p class="post-meta">Posted by
-              <a href="#">Start Bootstrap</a>
+              <a href="#">Polina Dubovik</a>
               on August 24, 2018</p>
           </div>
           <hr>
           <div class="post-preview">
-            <a href="post.html">
+            <a href="/posts/1">
               <h2 class="post-title">
                 Failure is not an option
               </h2>
@@ -55,7 +55,7 @@
               </h3>
             </a>
             <p class="post-meta">Posted by
-              <a href="#">Start Bootstrap</a>
+              <a href="#">Polina Dubovik</a>
               on July 8, 2018</p>
           </div>
           <hr>
