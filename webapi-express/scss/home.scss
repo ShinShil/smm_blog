@@ -2,42 +2,34 @@
   height: 100vh;
   background-image: url('/assets/img/smms_bg.jpg');
   background-size: 100% 100vh;
-}
-
-.attention {
-  .attenttion-wrapper {
-    font-family: 'Glacia Indifferent';
+  font-family: 'Glacia Indifferent';
+  font-size: 2rem;
+  height: calc(100vh - 2rem);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  .home-heading {
+    padding-bottom: 0.5em;
+    font-size: 250%;
+  }
+  .home-subheading {
+    padding-bottom: 1em;
+  }
+  .know-cost {
+    align-self: flex-start;
     font-size: 2rem;
-    height: 100vh;
-    text-indent: 17vh;
-    padding-top: 17vh;
-    .attention-header {
-      font-weight: bold; 
-      font-size: 200%;
-    }
-    .main {
-      font-family: 'Lato';
-      letter-spacing: 0.5rem;
-      font-weight: bold;
-      font-size: 3rem;
-    }
-
-    button {
-      align-self: flex-start;
-      font-size: 2rem;
-      align-items: center;
-      align-items: center;
-      padding: 10px 20px;
-      background-color: azure;
-      font-family: 'Lato';
-      border-style: none;
-      margin-top: 15px;
-      border-radius: 10px;
-    }
-    button:hover {
-      cursor: pointer;
-      background-color: orange;
-    }
+    align-items: center;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: azure;
+    font-family: 'Lato';
+    border-style: none;
+    margin-top: 15px;
+    border-radius: 10px;
+  }
+  .know-cost:hover {
+    cursor: pointer;
+    background-color: orange;
   }
 }
 
@@ -66,17 +58,14 @@
     .benefits-item {
       display: flex;
       justify-content: space-between;
-
       .benefits-icon {
         font-size: 8rem;
         display: flex;
         justify-content: center;
-
         i {
           align-self: center;
         }
       }
-
       .benefits-text {
         padding: 1rem 0;
         .orange {
@@ -87,21 +76,20 @@
           font-size: 1.5rem;
           padding-bottom: 0.5rem;
         }
-
         .benefits-text-content {
           font-size: 1.25rem;
         }
       }
-
-      .benefits-icon, .benefits-text {
+      .benefits-icon,
+      .benefits-text {
         flex: 47%;
         max-width: 47%;
         border-top: 2px dashed black;
       }
     }
-
     .benefits-item.last-border {
-      .benefits-icon, .benefits-text {
+      .benefits-icon,
+      .benefits-text {
         border-bottom: 2px dashed black;
       }
     }
@@ -113,7 +101,6 @@
   padding-top: 1rem;
   font-size: 1.5rem;
   background-image: url("/assets/img/works_bg.png");
-
   .works-wrapper {
     width: 70%;
     margin: 0 auto;
@@ -165,7 +152,8 @@
   font-size: 1.5rem;
   padding: 3rem;
   padding-top: 1rem;
-  .comments-header, .comments-subheader {
+  .comments-header,
+  .comments-subheader {
     text-align: center;
   }
   .comments-header {
@@ -235,7 +223,6 @@
         color: black;
         text-decoration: none;
       }
-
       .action:hover {
         background-color: darksalmon;
         cursor: pointer;
@@ -248,7 +235,6 @@
     font-size: 1.2rem;
     align-items: center;
     display: flex;
-
     button {
       width: 42%;
       font-size: 1.5rem;
@@ -257,17 +243,14 @@
       border-style: none;
       background-color: white;
     }
-
     form {
       outline: 1px white solid;
       padding: 18px;
     }
-
     button:hover {
       cursor: pointer;
       background-color: darksalmon;
     }
-
     input {
       padding: 0.5rem 1rem;
       outline: none;
@@ -281,9 +264,7 @@
 
 .photo-content {
   color: white;
-  .photo-main {
-
-  }
+  .photo-main {}
 }
 
 .footer {
@@ -292,7 +273,6 @@
   font-size: 1.5rem;
   padding: 1rem 5rem;
   font-family: 'Glacia Indifferent';
-
   .top {
     display: flex;
     border-bottom: 3px white solid;
