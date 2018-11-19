@@ -4,219 +4,635 @@
     <div class="container">
         <h2 class="home-heading">Курсы по СММ</h2>
         <h4 class="home-subheading">
-            Комплексный обучающий курс от Polina Dubovik, направленный на использование современных технологий и социальных сетей для
+            Комплексный обучающий курс от Polina Dubovik, направленный на использование современных технологий и
+            социальных сетей для
             продвижения Вашего бизнеса.
         </h4>
         <button class="know-cost">Подробнее</button>
     </div>
 </header>
-<div class="interest">
-    <div class="interest-intro">За последние десять лет появилось огромное количество дополнительных инструментов для развития
-        бизнеса.
+
+<div class="passion-colors">
+    <div class="review container">
+        <h1>Краткий обзор</h1>
+        <p>Курс СММ-proffesional - это супер курс нацеленный на интеграцию современных технологий, таких как CRM
+            системы,
+            интернет-боты и др. на интеграцию с социальными сетями для получения прибыли. Соцциальные сети
+            рассматриваются
+            как база данных с потенциальными клиентами. В результате данный курс особенно полезен для инженеров,
+            СЕО-специалистов и бизнесменов</p>
+        <div class="d-flex usefull">
+            <h2 class="text-center usefull-header">Будет особо интересен</h2>
+            <div class="text-center usefull-item">
+                <h4>Инженеры</h4>
+                <i class="review-icon fa fa-briefcase"></i>
+                <div>Инженеры тоже люди. Знаниют как работает под капотом.</div>
+            </div>
+            <div class="text-center usefull-item">
+                <h4>СЕО специалисты</h4>
+                <i class="review-icon fa fa-camera"></i>
+                <div>СММ - один из важнейших инструментов любого СЕО.</div>
+            </div>
+            <div class="text-center usefull-item">
+                <h4>Бизнесмены</h4>
+                <i class="review-icon fa fa-map-marker"></i>
+                <div>С помощью можно поднимать деньги.</div>
+            </div>
+        </div>
+        <p>
+            Польза от СММ очевидна. Многие это осознают и пробуют применять его, однако за последние несколько лет, СММ
+            перерос в целую дисциплину: Более 100 соц. сетей, более 200 инструментов. Причём интересной особенностью
+            является тот факт, в зависимости от поставленной задачи нужно всего лишь два-три элемента.
+        </p>
+        <div class="image-wrapper">
+            <img class="img-fluid img-round"
+                src="/assets/img/smm_alt2.jpg"
+                alt="">
+        </div>
     </div>
-    <div class="benefits">
-        <h3>Какие вопросы можно решить с помощью СММ</h3>
-        <div class="benefits-item">
-            <div class="benefits-icon">
-                <i class="fa fa-piggy-bank"></i>
-            </div>
-            <div class="benefits-text">
-                <div class="benefits-text-header">
-                    Исследование рынка
-                </div>
-                <div class="benefits-text-content">
-                    Исследование рынка - это одна из тех самых задач, которые трудно реализовать, маленьким компаниям. После прохождения курса
-                    вы будете знать как наиболее эффективно при помощи CRM систем и СММ можно его провести абсолютно бесплатно.
-                </div>
-            </div>
+    <div class="interest container">
+        <div class="interest-intro">Количество вопросов, решаемых с помощью СММ по настоящему разнообразно, но основную
+            массу вопросов можно разбить на 3 основные темы, которым уделяется особое внимание в рамках данного курса
         </div>
-        <div class="benefits-item">
-            <div class="benefits-icon">
-                <i class="fa fa-clock"></i>
-            </div>
-            <div class="benefits-text">
-                <div class="benefits-text-header">
-                    Реклама
+        <div class="benefits">
+            <h3>Основные темы рассматриваемые в курсе</h3>
+            <div class="benefits-item">
+                <div class="benefits-icon">
+                    <i class="fa fa-piggy-bank"></i>
                 </div>
-                <div class="benefits-text-content">
-                    Одно из наиболее очевидных применений для огромной базы потенциальных потребителей. Однако как продвигать свой продукт в
-                    соц. сетях, как сделать так, чтобы целевая аудитория узнавала о нём.
+                <div class="benefits-text">
+                    <div class="benefits-text-header">
+                        Исследование рынка
+                    </div>
+                    <div class="benefits-text-content">
+                        Исследование рынка - это одна из тех самых задач, которые трудно реализовать, маленьким
+                        компаниям.
+                        После прохождения курса
+                        вы будете знать как наиболее эффективно при помощи CRM систем и СММ можно его провести
+                        абсолютно
+                        бесплатно.
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="benefits-item last-border">
-            <div class="benefits-icon">
-                <i class="fa fa-dollar-sign"></i>
-            </div>
-            <div class="benefits-text">
-                <div class="benefits-text-header">
-                    Статус
+            <div class="benefits-item">
+                <div class="benefits-icon">
+                    <i class="fa fa-clock"></i>
                 </div>
-                <div class="benefits-text-content">
-                    Существует огромное количество разнообразного количества приложений. Каждое новое для вашей компании - это плюс к её репутации.
-                    Наиболее очевидные решения - это сайт либо мобильное приложение, но, например, группа с 20000 подписчиками
-                    в социальной сети, также влияет на репутацию компании.
+                <div class="benefits-text">
+                    <div class="benefits-text-header">
+                        Реклама
+                    </div>
+                    <div class="benefits-text-content">
+                        Одно из наиболее очевидных применений для огромной базы потенциальных потребителей. Однако как
+                        продвигать свой продукт в
+                        соц. сетях, как сделать так, чтобы целевая аудитория узнавала о нём.
+                    </div>
+                </div>
+            </div>
+            <div class="benefits-item last-border">
+                <div class="benefits-icon">
+                    <i class="fa fa-dollar-sign"></i>
+                </div>
+                <div class="benefits-text">
+                    <div class="benefits-text-header">
+                        Статус
+                    </div>
+                    <div class="benefits-text-content">
+                        Существует огромное количество разнообразного количества приложений. Каждое новое для вашей
+                        компании - это плюс к её репутации.
+                        Наиболее очевидные решения - это сайт либо мобильное приложение, но, например, группа с 20000
+                        подписчиками
+                        в социальной сети, также влияет на репутацию компании.
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
 <div class="works">
-    <div class="works-wrapper">
-        <h2>What you will get</h2>
+    <div class="works-wrapper container">
+        <h2>Навыки приобритаемые в ходе прохождения курса</h2>
         <div class="works-items">
             <div class="divider"></div>
             <div class="works-item first">
                 <div class="works-item-header">
-                    Knowledge
+                    Ведение аккаунта
                 </div>
                 <div class="works-item-description">
-                    Method are checked and working great
+                    <ul>
+                        <li>Как выбрать фотографию</li>
+                        <li>Как создать страницу</li>
+                        <li>Что нужно выкладывать</li>
+                    </ul>
                 </div>
             </div>
             <div class="works-item">
                 <div class="works-item-header">
-                    Power
+                    Технологии
                 </div>
                 <div class="works-item-description">
-                    Method are checked and working great
+                    <ul>
+                        <li>CRM-системы</li>
+                        <li>Интернет-боты</li>
+                        <li>Создание плагинов</li>
+                    </ul>
                 </div>
             </div>
             <div class="works-item first">
                 <div class="works-item-header">
-                    Instrument
+                    Создание группы
                 </div>
                 <div class="works-item-description">
-                    Method are checked and working great
+                    <ul>
+                        <li>Администрирование группы</li>
+                        <li>Привлечение подписчиков</li>
+                        <li>Написание постов</li>
+                    </ul>
                 </div>
             </div>
             <div class="works-item">
                 <div class="works-item-header">
-                    Support
+                    Психология покупателя
                 </div>
                 <div class="works-item-description">
-                    Method are checked and working great
+                    <ul>
+                        <li>Анализ покупателя по фотографиям</li>
+                        <li>Создания таргетированных предложений</li>
+                        <li>Анализ рынка</li>
+                    </ul>
                 </div>
             </div>
             <div class="works-item first">
                 <div class="works-item-header">
-                    Garant
+                    Различные социальные сети
                 </div>
                 <div class="works-item-description">
-                    Method are checked and working great
+                    <ul>
+                        <li>Instagramm</li>
+                        <li>ВКонтакте</li>
+                        <li>Facebook</li>
+                    </ul>
                 </div>
             </div>
         </div>
     </div>
 </div>
 <div class="comments">
-    <div class="comments-header">
-        Кому полезен этот продукт
-    </div>
-    <div class="comments-subheader">
-        Everyday someone start using new features, today it can be you Polina is a professional...
-    </div>
-    <div class="users">
-        <div class="user">
-            <div class="comment">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquam aperiam commodi corporis cum debitis deleniti deserunt,
-                doloribus ea eos error est eum facilis incidunt, inventore iste labore laborum minima minus molestiae mollitia
-                non officiis perspiciatis placeat praesentium quasi quidem quos ratione reiciendis repellat repellendus saepe,
-                suscipit unde velit vitae.
-            </div>
-            <div class="identity">
-                by Lorem Ipsum, 27 april
+    <section id="team"
+        class="pb-5">
+        <div class="container">
+            <h5 class="section-title h1">Уже более N людей приобрели этот курс</h5>
+            <h6 class="section-title h5 text-muted">После прохождения курса можно оставить отзыв</h6>
+            <div class="row">
+                <!-- Team member -->
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="image-flip"
+                        ontouchstart="this.classList.toggle('hover');">
+                        <div class="mainflip">
+                            <div class="frontside">
+                                <div class="card">
+                                    <div class="card-body text-center">
+                                        <p><img class=" img-fluid"
+                                                src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_01.png"
+                                                alt="card image"></p>
+                                        <h4 class="card-title">Sunlimetech</h4>
+                                        <p class="card-text">This is basic card with image on top, title, description
+                                            and button.</p>
+                                        <a href="#"
+                                            class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="backside">
+                                <div class="card">
+                                    <div class="card-body text-center mt-4">
+                                        <h4 class="card-title">Sunlimetech</h4>
+                                        <p class="card-text">This is basic card with image on top, title, description
+                                            and button.This is basic card with image on top, title, description and
+                                            button.This is basic card with image on top, title, description and button.</p>
+                                        <ul class="list-inline">
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-facebook"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-twitter"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-skype"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-google"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ./Team member -->
+                <!-- Team member -->
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="image-flip"
+                        ontouchstart="this.classList.toggle('hover');">
+                        <div class="mainflip">
+                            <div class="frontside">
+                                <div class="card">
+                                    <div class="card-body text-center">
+                                        <p><img class=" img-fluid"
+                                                src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_02.png"
+                                                alt="card image"></p>
+                                        <h4 class="card-title">Sunlimetech</h4>
+                                        <p class="card-text">This is basic card with image on top, title, description
+                                            and button.</p>
+                                        <a href="#"
+                                            class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="backside">
+                                <div class="card">
+                                    <div class="card-body text-center mt-4">
+                                        <h4 class="card-title">Sunlimetech</h4>
+                                        <p class="card-text">This is basic card with image on top, title, description
+                                            and button.This is basic card with image on top, title, description and
+                                            button.This is basic card with image on top, title, description and button.</p>
+                                        <ul class="list-inline">
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-facebook"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-twitter"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-skype"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-google"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ./Team member -->
+                <!-- Team member -->
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="image-flip"
+                        ontouchstart="this.classList.toggle('hover');">
+                        <div class="mainflip">
+                            <div class="frontside">
+                                <div class="card">
+                                    <div class="card-body text-center">
+                                        <p><img class=" img-fluid"
+                                                src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_03.png"
+                                                alt="card image"></p>
+                                        <h4 class="card-title">Sunlimetech</h4>
+                                        <p class="card-text">This is basic card with image on top, title, description
+                                            and button.</p>
+                                        <a href="#"
+                                            class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="backside">
+                                <div class="card">
+                                    <div class="card-body text-center mt-4">
+                                        <h4 class="card-title">Sunlimetech</h4>
+                                        <p class="card-text">This is basic card with image on top, title, description
+                                            and button.This is basic card with image on top, title, description and
+                                            button.This is basic card with image on top, title, description and button.</p>
+                                        <ul class="list-inline">
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-facebook"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-twitter"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-skype"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-google"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ./Team member -->
+                <!-- Team member -->
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="image-flip"
+                        ontouchstart="this.classList.toggle('hover');">
+                        <div class="mainflip">
+                            <div class="frontside">
+                                <div class="card">
+                                    <div class="card-body text-center">
+                                        <p><img class=" img-fluid"
+                                                src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_04.jpg"
+                                                alt="card image"></p>
+                                        <h4 class="card-title">Sunlimetech</h4>
+                                        <p class="card-text">This is basic card with image on top, title, description
+                                            and button.</p>
+                                        <a href="#"
+                                            class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="backside">
+                                <div class="card">
+                                    <div class="card-body text-center mt-4">
+                                        <h4 class="card-title">Sunlimetech</h4>
+                                        <p class="card-text">This is basic card with image on top, title, description
+                                            and button.This is basic card with image on top, title, description and
+                                            button.This is basic card with image on top, title, description and button.</p>
+                                        <ul class="list-inline">
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-facebook"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-twitter"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-skype"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-google"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ./Team member -->
+                <!-- Team member -->
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="image-flip"
+                        ontouchstart="this.classList.toggle('hover');">
+                        <div class="mainflip">
+                            <div class="frontside">
+                                <div class="card">
+                                    <div class="card-body text-center">
+                                        <p><img class=" img-fluid"
+                                                src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_05.png"
+                                                alt="card image"></p>
+                                        <h4 class="card-title">Sunlimetech</h4>
+                                        <p class="card-text">This is basic card with image on top, title, description
+                                            and button.</p>
+                                        <a href="#"
+                                            class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="backside">
+                                <div class="card">
+                                    <div class="card-body text-center mt-4">
+                                        <h4 class="card-title">Sunlimetech</h4>
+                                        <p class="card-text">This is basic card with image on top, title, description
+                                            and button.This is basic card with image on top, title, description and
+                                            button.This is basic card with image on top, title, description and button.</p>
+                                        <ul class="list-inline">
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-facebook"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-twitter"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-skype"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-google"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ./Team member -->
+                <!-- Team member -->
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="image-flip"
+                        ontouchstart="this.classList.toggle('hover');">
+                        <div class="mainflip">
+                            <div class="frontside">
+                                <div class="card">
+                                    <div class="card-body text-center">
+                                        <p><img class=" img-fluid"
+                                                src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_06.jpg"
+                                                alt="card image"></p>
+                                        <h4 class="card-title">Sunlimetech</h4>
+                                        <p class="card-text">This is basic card with image on top, title, description
+                                            and button.</p>
+                                        <a href="#"
+                                            class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="backside">
+                                <div class="card">
+                                    <div class="card-body text-center mt-4">
+                                        <h4 class="card-title">Sunlimetech</h4>
+                                        <p class="card-text">This is basic card with image on top, title, description
+                                            and button.This is basic card with image on top, title, description and
+                                            button.This is basic card with image on top, title, description and button.</p>
+                                        <ul class="list-inline">
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-facebook"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-twitter"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-skype"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a class="social-icon text-xs-center"
+                                                    target="_blank"
+                                                    href="#">
+                                                    <i class="fa fa-google"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ./Team member -->
+
             </div>
         </div>
-        <div class="user">
-            <div class="comment">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquam aperiam commodi corporis cum debitis deleniti deserunt,
-                doloribus ea eos error est eum facilis incidunt, inventore iste labore
-            </div>
-            <div class="identity">
-                by Lorem Ipsum, 27 april
-            </div>
-        </div>
-        <div class="user">
-            <div class="comment">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquam aperiam commodi corporis cum debitis deleniti deserunt,
-                doloribus ea eos error est eum facilis incidunt, inventore iste labore laborum minima minus molestiae mollitia
-                non officiis perspiciatis placeat praesentium quasi quidem quos ratione reiciendis repellat repellendus saepe,
-                suscipit unde velit vitae. laborum minima minus molestiae mollitia non officiis perspiciatis placeat praesentium
-                quasi quidem quos ratione reiciendis repellat repellendus saepe, suscipit unde velit vitae.
-            </div>
-            <div class="identity">
-                by Lorem Ipsum, 27 april
-            </div>
-        </div>
-        <div class="user">
-            <div class="comment">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquam aperiam commodi corporis cum
-            </div>
-            <div class="identity">
-                by Lorem Ipsum, 27 april
-            </div>
-        </div>
-    </div>
+    </section>
 </div>
-<div class="flaer">
-    <div class="left">
-        <div class="item">
-            <div class="index">
-                1
+<div class="buy">
+    <div class="container">
+        <h2 class="buy-header text-center mb-2">Приобрести курс</h2>
+        <div class="row">
+            <div class="col-md-6">
+                <div>
+                    <div class="d-block mb-3">
+                        <label for="cc-name">Имя на карточке</label>
+                        <input type="text"
+                            class="form-control"
+                            id="cc-name"
+                            placeholder=""
+                            required>
+                        <small class="text-muted">Полное имя написано внизу на Вашей карте</small>
+                        <div class="invalid-feedback">
+                            Name on card is required
+                        </div>
+                    </div>
+                    <div class="d-block mb-3">
+                        <label for="cc-number">Номер карточки</label>
+                        <input type="text"
+                            class="form-control"
+                            id="cc-number"
+                            placeholder=""
+                            required>
+                        <div class="invalid-feedback">
+                            Credit card number is required
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="cc-expiration">Exp. Date</label>
+                            <input type="text"
+                                class="form-control"
+                                id="cc-expiration"
+                                placeholder=""
+                                required>
+                            <div class="invalid-feedback">
+                                Expiration date required
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label for="cc-expiration">CVV</label>
+                            <input type="text"
+                                class="form-control"
+                                id="cc-cvv"
+                                placeholder=""
+                                required>
+                            <div class="invalid-feedback">
+                                Security code required
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="context">
-                <div class="context-header">
-                    Header & header
-                </div>
-                <div class="context-subheader">
-                    subheader info
-                </div>
-                <div class="context-subheader">
-                    subheader info
-                </div>
+            <div class="container col-md-6">
+                <p>Для покупки заполните форму и нажмите кнопку оплатить. Курс придёт к вам на почту.</p>
+                <p>
+                    Приобретая курс вы получаете:
+                </p>
+                <ul>
+                    <li>Гарантию возврата денег в течение 3 месяцев</li>
+                    <li>Поддержку от создателя данного курса</li>
+                    <li>Бесплатную консультацию от gastrosmm</li>
+                </ul>
             </div>
-            <a class="action">
-                Choose
-            </a>
-        </div>
-        <div class="item">
-            <div class="index">
-                2
-            </div>
-            <div class="context">
-                <div class="context-header">
-                    Header & header
-                </div>
-                <div class="context-subheader">
-                    subheader info
-                </div>
-                <div class="context-subheader">
-                    subheader info
-                </div>
-            </div>
-            <a class="action">
-                Blog
-            </a>
-        </div>
-        <div class="item">
-            <div class="index">
-                3
-            </div>
-            <div class="context">
-                <div class="context-header">
-                    Header & header
-                </div>
-                <div class="context-subheader">
-                    subheader info
-                </div>
-                <div class="context-subheader">
-                    subheader info
-                </div>
-            </div>
-            <a class="action">
-                Ask
-            </a>
         </div>
     </div>
 </div>
